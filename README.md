@@ -3,6 +3,7 @@
 <h1 align="center"> API em python </h1>
 
 Uma API simples construida em Flask para consulta de algumas informações já pré descritas, podendo ser realizados todos os passos de um CRUD.
+Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
 
 <h4 align="center">
   🚧 Projeto sendo atualizado para incorporação de banco de dados não relacional 🚧
@@ -10,16 +11,26 @@ Uma API simples construida em Flask para consulta de algumas informações já p
 
 <h4 align="center">
   🔨 Funcionalidades do projeto:
+  
   - `Funcionalidade 1.`: Método Get
+  
   - `Funcionalidade 2.`:- Método Get by id
+    
   - `Funcionalidade 3.`:- Método Post
+    
   - `Funcionalidade 4.`:- Método Put
+    
   - `Funcionalidade 5.`:- Método Delete
+    
 </h4>
 
 <h4>
   ✔️ Técnicologias Utilizadas
+  
   Python
+  
   Flask
+  
   Visual Studio Code IDE
+  
 </h4>
