@@ -5,14 +5,11 @@
 Uma API simples construida em Flask para consulta de algumas informações já pré descritas, podendo ser realizados todos os passos de um CRUD.
 Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
 
-<h4 align="center">
-  🚧 Projeto sendo atualizado para incorporação de banco de dados não relacional 🚧
-</h4>
+ 🚧 Projeto sendo atualizado para incorporação de banco de dados não relacional 🚧
 
-
-<h4 align="center">
+ 
   🔨 Funcionalidades do projeto:
-</h4>
+
   - `Funcionalidade 1.`: Método Get
   - `Funcionalidade 2.`:- Método Get by id
   - `Funcionalidade 3.`:- Método Post
