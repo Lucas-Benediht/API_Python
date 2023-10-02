@@ -9,7 +9,7 @@ Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
   🚧 Projeto sendo atualizado para incorporação de banco de dados não relacional 🚧
 </h4>
 
-<h4 align="center">
+
 🔨 Funcionalidades do projeto:
 
   - `Funcionalidade 1.`: Método Get
@@ -18,13 +18,9 @@ Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
   - `Funcionalidade 4.`:- Método Put
   - `Funcionalidade 5.`:- Método Delete
     
-</h4>
-
-<h4>
 ✔️ Técnicologias Utilizadas
-  
   -`Python`
   -`Flask`
   -`Visual Studio Code IDE`
   
-</h4>
+
