@@ -20,7 +20,6 @@ Criação de uma API para consulta de algumas informações já criadas através
 
 ✔️ Tecnologias Utilizadas:
 - Python
-- Flask
 - Visual Studio Code IDE
 
 ✔️ Bibliotecas Utilizadas:
