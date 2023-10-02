@@ -10,27 +10,21 @@ Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
 </h4>
 
 <h4 align="center">
-  🔨 Funcionalidades do projeto:
-  
+🔨 Funcionalidades do projeto:
+
   - `Funcionalidade 1.`: Método Get
-  
   - `Funcionalidade 2.`:- Método Get by id
-    
   - `Funcionalidade 3.`:- Método Post
-    
   - `Funcionalidade 4.`:- Método Put
-    
   - `Funcionalidade 5.`:- Método Delete
     
 </h4>
 
 <h4>
-  ✔️ Técnicologias Utilizadas
+✔️ Técnicologias Utilizadas
   
-  Python
-  
-  Flask
-  
-  Visual Studio Code IDE
+  -`Python`
+  -`Flask`
+  -`Visual Studio Code IDE`
   
 </h4>
