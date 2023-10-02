@@ -6,7 +6,8 @@
 
 Criação de uma API para consulta de algumas informações já criadas através de arquivos Json. Sendo elas algumas informações basicas sobre a franquia de jogos "Final Fantasy"
 
-🚧 Projeto em implementação de funcionalidades: Implementação de banco de dados não relacional para guardar as informações 🚧
+
+<h4> 🚧 Projeto em implementação de funcionalidades: Implementação de banco de dados não relacional para guardar as informações.</h4>
 
 
 🔨 Funcionalidades do projeto:
