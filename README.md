@@ -10,8 +10,9 @@ Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
 </h4>
 
 
-🔨 Funcionalidades do projeto:
-
+<h4 align="center">
+  🔨 Funcionalidades do projeto:
+</h4>
   - `Funcionalidade 1.`: Método Get
   - `Funcionalidade 2.`:- Método Get by id
   - `Funcionalidade 3.`:- Método Post
