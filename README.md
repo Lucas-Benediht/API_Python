@@ -18,11 +18,11 @@ Criação de uma API para consulta de algumas informações já criadas através
 - `Funcionalidade 4:` Método PUT
 - `Funcionalidade 5:` Método DELETE
 
-✔️ Tecnologias Utilizadas:
+💻 Tecnologias Utilizadas:
 - Python
 - Visual Studio Code IDE
 
-✔️ Bibliotecas Utilizadas:
+🖱️ Bibliotecas Utilizadas:
 - Flask: Biblioteca para manipulação de arquivos em formatos xlsx, xlsm, xltx, xltm
 - colorama: Biblioteca para manipulação das cores do terminal
 
