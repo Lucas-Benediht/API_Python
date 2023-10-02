@@ -1,24 +1,21 @@
-![capa](https://github.com/Lucas-Benediht/API_Python/assets/110697669/b28ff274-eb83-4167-ad62-d102b68177d9)
+<h1 align="center">Criação de planilhas em excel com Python</h1>
 
-<h1 align="center"> API em python </h1>
+<p align="center">
+  <img src="https://github.com/Lucas-Benediht/Cria-o-de-Excel-com-Python/assets/110697669/dcad2dc3-5a0e-4b0a-a11e-0fa95a884393" alt="excel">
+</p>
 
-Uma API simples construida em Flask para consulta de algumas informações já pré descritas, podendo ser realizados todos os passos de um CRUD.
-Utilizando algumas informações sobre a franquia de jogos "Final Fantasy"
+Um programa simples para criação de planilhas em Excel de forma automatizada.
 
- 🚧 Projeto sendo atualizado para incorporação de banco de dados não relacional 🚧
+🔨 Funcionalidades do projeto:
 
- 
-  🔨 Funcionalidades do projeto:
+- Criação de planilhas em arquivos xlsx
 
-  - `Funcionalidade 1.:` Método Get
-  - `Funcionalidade 2.:` Método Get by id
-  - `Funcionalidade 3.:` Método Post
-  - `Funcionalidade 4.:` Método Put
-  - `Funcionalidade 5.:` Método Delete
-    
-✔️ Técnicologias Utilizadas
-  -`Python`
-  -`Flask`
-  -`Visual Studio Code IDE`
-  
+✔️ Tecnologias Utilizadas:
+- Python
+- Visual Studio Code IDE
+
+✔️ Bibliotecas Utilizadas:
+- openpyxl: Biblioteca para manipulação de arquivos em formatos xlsx, xlsm, xltx, xltm
+- colorama: Biblioteca para manipulação das cores do terminal
+
 
