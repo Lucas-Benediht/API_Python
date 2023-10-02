@@ -10,11 +10,11 @@ Utilizando algumas informações sobre a franquia de jogos "Final Fantasy"
  
   🔨 Funcionalidades do projeto:
 
-  - `Funcionalidade 1.`: Método Get
-  - `Funcionalidade 2.`:- Método Get by id
-  - `Funcionalidade 3.`:- Método Post
-  - `Funcionalidade 4.`:- Método Put
-  - `Funcionalidade 5.`:- Método Delete
+  - `Funcionalidade 1.:` Método Get
+  - `Funcionalidade 2.:` Método Get by id
+  - `Funcionalidade 3.:` Método Post
+  - `Funcionalidade 4.:` Método Put
+  - `Funcionalidade 5.:` Método Delete
     
 ✔️ Técnicologias Utilizadas
   -`Python`
