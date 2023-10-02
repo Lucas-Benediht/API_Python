@@ -3,7 +3,7 @@
 <h1 align="center"> API em python </h1>
 
 Uma API simples construida em Flask para consulta de algumas informações já pré descritas, podendo ser realizados todos os passos de um CRUD.
-Utilei algumas informações sobre a franquia de jogos "Final Fantasy"
+Utilizando algumas informações sobre a franquia de jogos "Final Fantasy"
 
  🚧 Projeto sendo atualizado para incorporação de banco de dados não relacional 🚧
 
