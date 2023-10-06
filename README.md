@@ -23,7 +23,7 @@ Criação de uma API para consulta de algumas informações já criadas através
 - Visual Studio Code IDE
 
 🖱️ Bibliotecas Utilizadas:
-- Flask: Biblioteca para manipulação de arquivos em formatos xlsx, xlsm, xltx, xltm
+- Flask
 - colorama: Biblioteca para manipulação das cores do terminal
 
 
